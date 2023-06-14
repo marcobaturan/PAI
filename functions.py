@@ -17,6 +17,8 @@ from PIL import Image, ImageDraw
 
 
 def face_generator(emotion):
+    """Generates a face bit map from string input in a labeled emotion."""
+
     # Define emotions
     emotions = {
         "happy": {
