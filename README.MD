@@ -1,4 +1,4 @@
-# Personal Artificial Intelligence
+# Personal Avatar Integration
 
     PAI is a software  with several objectives to be fulfilled.
     It functions as a virtual assistant, side-load, general trainee and expert system. 
