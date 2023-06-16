@@ -6,9 +6,11 @@
     It involves the sequential aggregation of different functions in the intelligent autonomous system that should
     autonomous intelligent system that should represent a complete artificial brain.
 
-# Functions
+# Execution 
 
-    TODO
+$ python virtualenv venv
+$ pip install -r requirements.txt
+$ python main.py
 
 # Copyright
 
